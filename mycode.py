@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 data = {
-    "name":["aryan"]
+    "name":["aryan",'few']
 }
 
 df = pd.DataFrame(data)
